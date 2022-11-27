@@ -1,0 +1,8 @@
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\bin\Debug\task-27-11-class.exe.config
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\bin\Debug\task-27-11-class.exe
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\bin\Debug\task-27-11-class.pdb
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\obj\Debug\task-27-11-class.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\obj\Debug\task-27-11-class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\obj\Debug\task-27-11-class.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\obj\Debug\task-27-11-class.exe
+C:\Users\Orange\source\repos\task-27-11-class\task-27-11-class\obj\Debug\task-27-11-class.pdb
