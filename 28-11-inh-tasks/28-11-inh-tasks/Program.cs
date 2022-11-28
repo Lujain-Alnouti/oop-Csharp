@@ -48,15 +48,15 @@ namespace _28_11_inh_tasks
 
         class Ford : Car {
 
-        public Ford(string m1, int y, string t, double p, string mo, string pall, string c)
+        public Ford(string make, int year, string Type, double Price, string model, string Pallet_No, string color):base(make,year,Type,Price,model,Pallet_No,color)
         {
-            make = m1;
-            year = y;
-            Type = t;
-            Price = p;
-            model = mo;
-            Pallet_No = pall;
-            color = c;
+            //    this.make = make;
+            //    this.year = year;
+            //    this.Type = Type;
+            //    this.Price = Price;
+            //    this.model = model;
+            //    this.Pallet_No = Pallet_No;
+            //    this.color = color;
         }
         public void all_info()
             {
