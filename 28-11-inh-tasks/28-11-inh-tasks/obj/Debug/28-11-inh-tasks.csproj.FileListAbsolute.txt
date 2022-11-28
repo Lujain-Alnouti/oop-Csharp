@@ -1,0 +1,8 @@
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\bin\Debug\28-11-inh-tasks.exe.config
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\bin\Debug\28-11-inh-tasks.exe
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\bin\Debug\28-11-inh-tasks.pdb
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\obj\Debug\28-11-inh-tasks.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\obj\Debug\28-11-inh-tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\obj\Debug\28-11-inh-tasks.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\obj\Debug\28-11-inh-tasks.exe
+C:\Users\Orange\source\repos\28-11-inh-tasks\28-11-inh-tasks\obj\Debug\28-11-inh-tasks.pdb
