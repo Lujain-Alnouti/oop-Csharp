@@ -44,6 +44,11 @@ namespace _28_11_inh_tasks
             Console.WriteLine("Your Car Has Been Stopped ...");
         }
 
+        public int KM(int k=20,int l=1)
+        {
+            return (k * l);
+        }
+
     }
 
         class Ford : Car {
@@ -78,6 +83,12 @@ namespace _28_11_inh_tasks
             Ford ford = new Ford("American", 2014,"Fusion", 26000, "Fusion", "1254abc", "blue");
             ford.START();
             ford.all_info();
+
+            Console.WriteLine("Please enter how much Kilometer in one liter");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter the number of Liters you have");
+            int y = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Te number of Kilometer in "+y+" Liter = "+ford.KM(x,y));
             ford.Stop();
         }
     }
