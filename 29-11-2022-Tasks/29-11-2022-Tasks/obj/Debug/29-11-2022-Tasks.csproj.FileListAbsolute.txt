@@ -1,0 +1,8 @@
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\bin\Debug\29-11-2022-Tasks.exe.config
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\bin\Debug\29-11-2022-Tasks.exe
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\bin\Debug\29-11-2022-Tasks.pdb
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\obj\Debug\29-11-2022-Tasks.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\obj\Debug\29-11-2022-Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\obj\Debug\29-11-2022-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\obj\Debug\29-11-2022-Tasks.exe
+C:\Users\Orange\source\repos\29-11-2022-Tasks\29-11-2022-Tasks\obj\Debug\29-11-2022-Tasks.pdb
