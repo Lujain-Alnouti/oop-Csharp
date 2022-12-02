@@ -1,5 +1,4 @@
-﻿body {
-}
+﻿
 .navbar {
     background-color: #7167AE;
     height:60px;
@@ -26,20 +25,23 @@
     margin-top:15px;
     margin-right:30px;
 }
+
 .IMG {
     width: 30%;
     height: 400px;
     float: left;
     margin-left: 14%;
+    /*display:inline-block;*/
 }
 
 .login_div {
     border: 2px solid #7167AE;
-    border-radius:100px;
+    border-radius: 100px;
     float:left;
-    margin-left:10%;
-    width:30%;
-    height:380px;
+    margin-left: 10%;
+    width: 30%;
+    height: 380px;
+    /*display: inline-block;*/
 }
 .wel_st {
     padding-left: 25%;
@@ -101,5 +103,50 @@
     padding-top:25px;
     font-size:18px;
 }
+/*@media only screen and (min-device-width: 0px) and (max-device-width:480px) {
+    .flexc {
+        display: flex;
+        flex-direction:column
+    }
 
+    .IMG {
+        width: 30%;
+        height: 400px;*/
+        /*float: left;*/
+        /*margin-left: 14%;
+        display: block;
+    }
+
+    .login_div {
+        border: 2px solid #7167AE;
+        border-radius: 100px;*/
+        /*float:left;*/
+        /*margin-left: 10%;
+        width: 30%;
+        height: 380px;
+        display:block;
+    }
+}*/
+@media screen and (min-width:481px) and (max-width:768px) {
+    
+    .IMG {
+        width: 40%;
+        height: 400px;
+        float: left;
+        margin-left: 5%;
+        /*display:inline-block;*/
+    }
+
+    .login_div {
+        border: 2px solid #7167AE;
+        border-radius: 100px;
+        float: left;
+        margin-left: 5%;
+        width: 45%;
+        height: 380px;
+        /*display: inline-block;*/
+    }
+
+    
+}
 

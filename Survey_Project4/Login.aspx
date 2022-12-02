@@ -6,6 +6,7 @@
 <head runat="server">
     <title></title>
     <link rel="stylesheet" href="Login_CSS.css"/>
+    <script src="Login_JS.js" type="text/javascript"></script>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -16,10 +17,11 @@
 
         </div>
         <div>  <asp:Label ID="mess" runat="server" Text="" CssClass="mess_label"></asp:Label></div>
-      
-        <div style="margin-top:85px;">
-           
+        
+      <div style="margin-top:85px;">
+        
             <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Rename.png" CssClass="IMG"/>
+             
             <div class="login_div">
                 <br />
                 <asp:Label ID="wel" runat="server" Text="Welcome In Login Screen" CssClass="wel_st"></asp:Label>
@@ -36,7 +38,7 @@
                 <br /> <br />
                 <asp:TextBox ID="Id_input" runat="server" CssClass="user_Id_box"></asp:TextBox>
                 
-                <asp:Button ID="login" runat="server" Text="Login" CssClass="login_button" OnClick="login_Click" />
+                <asp:Button ID="login" runat="server" Text="Login" CssClass="login_button" OnClick="login_Click" OnClientClick="LOGIN()"/>
                 </div>
           
             

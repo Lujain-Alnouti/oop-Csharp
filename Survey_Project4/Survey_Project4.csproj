@@ -72,6 +72,7 @@
     <Content Include="Login.aspx" />
     <Content Include="Login_CSS.css" />
     <Content Include="Images\Rename.png" />
+    <Content Include="Login_JS.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
