@@ -31,8 +31,15 @@
     height: 400px;
     float: left;
     margin-left: 14%;
-    /*display:inline-block;*/
 }
+
+/*.IMG {
+    width: 40%;
+    height: 400px;
+    float: left;
+    margin-left: 5%;*/
+/*}*/
+
 
 .login_div {
     border: 2px solid #7167AE;
@@ -41,8 +48,17 @@
     margin-left: 10%;
     width: 30%;
     height: 380px;
-    /*display: inline-block;*/
 }
+
+/*.login_div {
+    border: 2px solid #7167AE;
+    border-radius: 100px;
+    float: left;
+    margin-left: 5%;
+    width: 45%;
+    height: 380px;*/
+/*}*/
+
 .wel_st {
     padding-left: 25%;
     text-align: center;
@@ -103,50 +119,213 @@
     padding-top:25px;
     font-size:18px;
 }
-/*@media only screen and (min-device-width: 0px) and (max-device-width:480px) {
-    .flexc {
-        display: flex;
-        flex-direction:column
+@media only screen and (min-device-width:0px) and (max-device-width:480px) {
+
+    .logo {
+        width: 88px;
+        height: 39px;
+        float: left;
+        margin-top:10px;
+        margin-left: 15px;
+    }
+
+    .about {
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+        color: #FADB7F;
+        text-align: center;
+        font-size: 13px;
+        background-color: #7167AE;
+        border: 1px solid #7167AE;
+        float: right;
+        margin-top: 18px;
+        margin-right: 9px;
     }
 
     .IMG {
-        width: 30%;
-        height: 400px;*/
-        /*float: left;*/
-        /*margin-left: 14%;
-        display: block;
+        width: 90%;
+        height: 400px;
+        float: unset;
+        margin-left: 5%;
+        display:block;
+        margin-top:-50px;
     }
+
+    /*.IMG {
+    width: 40%;
+    height: 400px;
+    float: left;
+    margin-left: 5%;*/
+    /*}*/
+
 
     .login_div {
         border: 2px solid #7167AE;
-        border-radius: 100px;*/
-        /*float:left;*/
-        /*margin-left: 10%;
-        width: 30%;
-        height: 380px;
+        border-radius: 50px;
+        float: unset;
+        margin-left: 5%;
+        width: 90%;
+        height: 365px;
         display:block;
     }
-}*/
-@media screen and (min-width:481px) and (max-width:768px) {
-    
+
+    /*.login_div {
+    border: 2px solid #7167AE;
+    border-radius: 100px;
+    float: left;
+    margin-left: 5%;
+    width: 45%;
+    height: 380px;*/
+    /*}*/
+
+    .wel_st {
+        padding-left: 13%;
+        text-align: center;
+        color: #7167AE;
+        font-size: 19px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    .user_Id_label {
+        color: #7167AE;
+        font-size: 17px;
+        margin-top: 25px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+        padding-left: 10%;
+    }
+
+    .user_Id_box {
+        border: 1px solid #7167AE;
+        border-radius: 10px;
+        margin-left: 18%;
+        width: 72%;
+        height: 40px;
+    }
+
+    .login_button {
+        width: 25%;
+        background-color: #7167AE;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+        color: #FADB7F;
+        text-align: center;
+        font-size: 18px;
+        margin-left:37%;
+        margin-top: 25px;
+        height: 45px;
+        border: 1px solid #7167AE;
+        border-radius: 5px;
+    }
+
+    .mess_label {
+        display: block;
+        color: #7167AE;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 18px;
+        margin-left: 40%;
+        margin-top: 25px;
+    }
+
+    .footer {
+        width: 100%;
+        height: 35px;
+        color: #FADB7F;
+        background-color: #7167AE;
+        margin-top: 32px;
+        border-radius: 10px;
+        text-align: center;
+        padding-top: 15px;
+        font-size: 18px;
+    }
+}
+/*TABLET*/
+@media (min-width: 481px) and (max-width:768px) {
+
     .IMG {
         width: 40%;
         height: 400px;
         float: left;
         margin-left: 5%;
-        /*display:inline-block;*/
+        margin-top:-40px;
     }
 
     .login_div {
         border: 2px solid #7167AE;
-        border-radius: 100px;
+        border-radius: 87px;
         float: left;
         margin-left: 5%;
         width: 45%;
-        height: 380px;
-        /*display: inline-block;*/
+        height: 374px;
+        margin-top:-40px;
+    }
+    .wel_st {
+        padding-left: 15%;
+        text-align: center;
+        color: #7167AE;
+        font-size: 22px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+    }
+    .user_Id_label {
+        color: #7167AE;
+        font-size: 18px;
+        margin-top: 25px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+        padding-left: 10%;
     }
 
+    .user_Id_box {
+        border: 1px solid #7167AE;
+        border-radius: 10px;
+        margin-left: 18%;
+        width: 65%;
+        height: 40px;
+    }
+    .footer {
+        width: 100%;
+        height: 39px;
+        color: #FADB7F;
+        background-color: #7167AE;
+        margin-top: 455px;
+        border-radius: 10px;
+        text-align: center;
+        padding-top: 22px;
+        font-size: 18px;
+    }
     
+
 }
+
+
+
+    /*@media screen and (min-width:481px) and (max-width:768px) {
+
+        .IMG {
+            width: 40%;
+            height: 400px;
+            float: left;
+            margin-left: 5%;*/
+            /*display:inline-block;*/
+        /*}
+
+        .login_div {
+            border: 2px solid #7167AE;
+            border-radius: 100px;
+            float: left;
+            margin-left: 5%;
+            width: 45%;
+            height: 380px;*/
+            /*display: inline-block;*/
+        /*}
+    }*/
 

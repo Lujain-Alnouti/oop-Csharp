@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Survey_Project4.Login" %>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
