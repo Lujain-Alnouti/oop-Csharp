@@ -16,9 +16,12 @@
             <asp:Button ID="home" runat="server" Text="Home" CssClass="about" OnClick="home_Click" />
 
         </div>
-        <div>  <asp:Label ID="mess" runat="server" Text="" CssClass="mess_label"></asp:Label></div>
+        <div>  <asp:Label ID="mess" runat="server" Text="" CssClass="mess_label"></asp:Label>
+            <br />
+
+        </div>
         
-      <div style="margin-top:85px;">
+      <div style="margin-top:45px;">
         
             <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Rename.png" CssClass="IMG"/>
              
