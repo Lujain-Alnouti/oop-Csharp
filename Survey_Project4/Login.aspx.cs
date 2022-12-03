@@ -29,8 +29,7 @@ namespace Survey_Project4
                 else if (User_input.Text == userN[i]&& Id_input.Text == userID[i])
                 {
                     //Response.Redirect("?&username="+User_input.Text+"&empID="+Id_input.Text);
-
-                    mess.Text ="";
+                    mess.Text = "";
 
                     break;
                 }
